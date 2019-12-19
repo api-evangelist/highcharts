@@ -1,0 +1,55 @@
+{
+    "name": "HighCharts",
+    "description": "Highcharts - Interactive JavaScript charts for your web pages.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1651-highcharts.jpg",
+    "tags": [
+        "api provider",
+        "charts",
+        "have api",
+        "javascript",
+        "visualizations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/highcharts\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "HighCharts",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1651-highcharts.jpg",
+            "humanURL": "http:\/\/www.highcharts.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/highcharts-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/highcharts"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/highcharts"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/highcharts"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Highcharts"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.highcharts.com\/"
+        }
+    ]
+}
